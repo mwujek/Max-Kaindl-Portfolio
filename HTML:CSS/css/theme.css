@@ -359,7 +359,7 @@ label {
 
 #site_header header #store_name {
   width: 90%;
-  margin: 60px auto 64px;
+  margin:40px auto 44px;
   font-size: 42px;
   padding-right: 6px;
   text-align: center;
@@ -1112,7 +1112,7 @@ font-weight: 100 !important;
 #product_info {
   float: left;
   clear: left;
-  width: 220px;
+  width: 320px;
   margin-top: 22px;
   }
 
@@ -3055,7 +3055,7 @@ nav ul li{
   height:10px;
 /*  background-color: red;*/
   position: absolute;
-  top:23px;
+  top:26px;
   right:2px;
   opacity: 0.3;
   transition:0.3s all;
@@ -3064,4 +3064,60 @@ nav ul li{
 
 #store{
   margin-right: 10px;
+}
+
+#content.strip{
+  background-color: #eee !important;
+  padding-top: 70px !important;
+  padding-bottom: 70px !important;
+}
+
+#logo{
+  max-width: 50px;
+  margin: -40px auto 40px auto;
+  display: block;
+}
+
+/*BLOG*/
+
+
+
+.blog-roll img{
+  margin: 25px auto;
+  text-align: center;
+  display: block;
+
+}
+.blog-roll:before{
+    content:'';
+  display: block;
+  max-width:250px;
+  height:1px;
+  background: #ddd;
+  margin: 40px auto;
+}
+
+iframe{
+  margin:20px auto;
+  text-align: center;
+  display: block;
+
+}
+
+
+.blog-roll h1.post-title{
+  font-weight: 100;
+  text-align: center;
+  font-family: "garamond-premier-pro-caption" !important;
+  font-size: 24px;
+  text-align: center;
+  margin-bottom: 6px;
+}
+
+.blog-roll h2.date{
+  text-align: center;
+color: #aaa;
+font-weight: 300;
+margin-top: -2px;
+margin-bottom: 20px;
 }

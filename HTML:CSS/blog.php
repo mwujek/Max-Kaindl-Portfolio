@@ -50,16 +50,18 @@
       <div class="canvas">
         <nav id="main_nav">
           <ul>
-            <li><a href="#" class="active-nav">Portfolio Home</a></li>
-            <li id="store"><div class="external-link"></div><a href="blog.php" title="View Portfolio">Store</a>
-            </li><li ><a href="/contact">Blog</a></li>
-            <li ><a href="/cart">Bio</a></li>
+            <li><a href="index.html">Portfolio Home</a></li>
+            <li id="store"><div class="external-link"></div><a href="http://maxkaindlpottery.bigcartel.com/" title="View Portfolio">Store</a>
+            </li><li><a href="#" class="active-nav">Blog</a></li>
+            <li ><a href="bio.html">Bio</a></li>
           </ul>
         </nav>
 
         <header>
-          
             <h1 id="store_name"><a href="/">Max Kaindl Pottery</a></h1>
+
+                        <img id="logo" src="img/logo.png">
+
           
         </header>
 
@@ -71,37 +73,48 @@
       </div>
     </div>
 
-    <div id="content" class="strip">
+    
+  <div id="content" class="strip">
       <div class="canvas fade_in">
 
       
 
       
         <header class="product_header page_header">
-  <h1>Cart</h1>
-  <span class="dash"></span>
-</header>
+          <h1>Blog</h1>
+          <span class="dash"></span>
+        </header>
 
+        <section id="page_body">
+        
 
-<div id="cart_empty">
-  <p>Your cart is empty! Sounds like a good time to <a href="/">start shopping</a>.</p>
-</div>
+<?
+$xml = simplexml_load_file('http://mattwujek.tumblr.com/api/read?type=post&start=0&num=8');
+$posts = $xml->xpath("/tumblr/posts/post[@type='regular']");
 
+foreach($posts as $post) {?>
+<?echo '<article class="blog-roll">';?>
+<?echo '<h1 class="post-title">'.$post->{'regular-title'}.'</h1>';?>
+<?echo '<h2 class="date">'.date("F jS, Y",strtotime($post['date'])).'</h2>';?>
+<?echo $post->{'regular-body'};?>
+<?echo '</article>';?>
 
+<?}?>
+
+        </section>
       
       </div>
     </div>
-
     
 
     <div id="site_footer" class="strip">
       <footer class="canvas">
         
         <ul>
-          <li><a href="/" alt="Home">Home</a></li>
-          <li><a href="/portfolio" title="View Portfolio">Store</a></li>   
-          <li><a href="/contact">Blog</a></li>
-          <li ><a href="/cart">Bio</a></li>
+          <li><a href="index.html" alt="Home">Portfolio Home</a></li>
+          <li><a href="http://maxkaindlpottery.bigcartel.com">Store</a></li>   
+          <li><a href="blog.php">Blog</a></li>
+          <li ><a class="active-nav" href="#">Bio</a></li>
           
           
           
