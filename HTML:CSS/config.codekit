@@ -62,6 +62,171 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/pottery\/Ahkmed.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 54601,
+		"inputAbbreviatedPath": "\/img\/pottery\/Ahkmed.JPG",
+		"outputAbbreviatedPath": "\/img\/pottery\/Ahkmed.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/pottery\/Augustina.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 52059,
+		"inputAbbreviatedPath": "\/img\/pottery\/Augustina.JPG",
+		"outputAbbreviatedPath": "\/img\/pottery\/Augustina.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/pottery\/Bill.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 81173,
+		"inputAbbreviatedPath": "\/img\/pottery\/Bill.JPG",
+		"outputAbbreviatedPath": "\/img\/pottery\/Bill.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/pottery\/DSC02915.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 74352,
+		"inputAbbreviatedPath": "\/img\/pottery\/DSC02915.JPG",
+		"outputAbbreviatedPath": "\/img\/pottery\/DSC02915.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/pottery\/Halle.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 66427,
+		"inputAbbreviatedPath": "\/img\/pottery\/Halle.JPG",
+		"outputAbbreviatedPath": "\/img\/pottery\/Halle.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/pottery\/Henry.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 65288,
+		"inputAbbreviatedPath": "\/img\/pottery\/Henry.JPG",
+		"outputAbbreviatedPath": "\/img\/pottery\/Henry.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/pottery\/Ichi.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 49178,
+		"inputAbbreviatedPath": "\/img\/pottery\/Ichi.JPG",
+		"outputAbbreviatedPath": "\/img\/pottery\/Ichi.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/pottery\/Jack.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 66083,
+		"inputAbbreviatedPath": "\/img\/pottery\/Jack.JPG",
+		"outputAbbreviatedPath": "\/img\/pottery\/Jack.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/pottery\/Jeff and Stan.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 63845,
+		"inputAbbreviatedPath": "\/img\/pottery\/Jeff and Stan.JPG",
+		"outputAbbreviatedPath": "\/img\/pottery\/Jeff and Stan.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/pottery\/Jeff.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 67916,
+		"inputAbbreviatedPath": "\/img\/pottery\/Jeff.JPG",
+		"outputAbbreviatedPath": "\/img\/pottery\/Jeff.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/pottery\/Miles.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 56542,
+		"inputAbbreviatedPath": "\/img\/pottery\/Miles.JPG",
+		"outputAbbreviatedPath": "\/img\/pottery\/Miles.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/pottery\/Parker.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 55193,
+		"inputAbbreviatedPath": "\/img\/pottery\/Parker.JPG",
+		"outputAbbreviatedPath": "\/img\/pottery\/Parker.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/pottery\/Shinjin.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 58244,
+		"inputAbbreviatedPath": "\/img\/pottery\/Shinjin.JPG",
+		"outputAbbreviatedPath": "\/img\/pottery\/Shinjin.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/pottery\/Stan.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 73109,
+		"inputAbbreviatedPath": "\/img\/pottery\/Stan.JPG",
+		"outputAbbreviatedPath": "\/img\/pottery\/Stan.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/pottery\/Vlad.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 68439,
+		"inputAbbreviatedPath": "\/img\/pottery\/Vlad.JPG",
+		"outputAbbreviatedPath": "\/img\/pottery\/Vlad.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -70,6 +235,17 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/js\/jquery.slides.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/jquery.slides.min.js",
+		"outputAbbreviatedPath": "\/js\/min\/jquery.slides.min-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
 		},
 	"\/project.html": {
 		"fileType": 8192,
