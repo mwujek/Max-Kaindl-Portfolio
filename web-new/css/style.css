@@ -220,7 +220,8 @@ nav > ul > li > a:hover, .sub-menu > li > a:hover {
   color: #aaa; }
 
 .multi-line-type {
-  max-width: 300px; }
+  max-width: 300px;
+  margin-top: 10px; }
 
 .work-text {
   display: none; }
@@ -241,6 +242,26 @@ nav > ul > li > a:hover, .sub-menu > li > a:hover {
   text-transform: uppercase;
   font-size: 12px;
   line-height: 18px; }
+
+.blog-roll {
+  font-family: "garamond-premier-pro-caption", serif; }
+
+.post-title {
+  font-weight: 900;
+  font-size: 30px; }
+
+.date {
+  font-weight: 100;
+  color: #aaa;
+  margin-bottom: 30px; }
+
+.blog-roll:after {
+  content: '';
+  display: block;
+  max-width: 250px;
+  height: 1px;
+  background: #ddd;
+  margin: 50px 0px; }
 
 .typed-cursor {
   opacity: 1;

@@ -75,6 +75,42 @@ $(".typed-subtitle-teapots").typed({
     });
 
 
+// jugs section
+
+$(".typed-subtitle-jugs").typed({
+    strings: ["This could be a short description of your work with jugs^1000"],
+    typeSpeed: 0,
+        startDelay: 1000, // time before typing starts
+        callback: function(){
+            $('.typed-cursor').css('display','none');
+            showContent();
+        }
+    });
+
+// drinking vessels section
+
+$(".typed-subtitle-drinking").typed({
+    strings: ["This could be a short description of your work with drinking vessels^1000"],
+    typeSpeed: 0,
+        startDelay: 1000, // time before typing starts
+        callback: function(){
+            $('.typed-cursor').css('display','none');
+            showContent();
+        }
+    });
+//blog section
+
+
+$(".typed-subtitle-blog").typed({
+    strings: ["I like to write about these things from time to time^1000"],
+    typeSpeed: 0,
+        startDelay: 1000, // time before typing starts
+        callback: function(){
+            $('.typed-cursor').css('display','none');
+            showContent();
+        }
+    });
+
 
 
 

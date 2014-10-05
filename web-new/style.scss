@@ -302,6 +302,7 @@ nav > ul > li > a:hover, .sub-menu > li > a:hover{
 // projects
 .multi-line-type{
 	max-width: 300px;
+	margin-top: 10px;
 }
 .work-text{
 	display: none;
@@ -329,6 +330,32 @@ nav > ul > li > a:hover, .sub-menu > li > a:hover{
 //////////////////////////////
 // teapots
 
+
+//////////////////////////////
+//////////////////////////////
+// blog
+.blog-roll{
+	font-family:$serif-font;
+}
+.post-title{
+	font-weight: 900;
+	font-size: 30px;
+
+}
+.date{
+	font-weight: 100;
+	color:$nav-font-color;
+	margin-bottom: 30px;
+}
+
+.blog-roll:after{
+    content:'';
+  display: block;
+  max-width:250px;
+  height:1px;
+  background: #ddd;
+  margin: 50px 0px;
+}
 //////////////////////////////
 //////////////////////////////
 //typed cursor
